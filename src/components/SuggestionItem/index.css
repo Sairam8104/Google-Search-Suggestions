@@ -1,0 +1,12 @@
+/* Write your CSS here */
+.listItems {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0px;
+}
+
+.arrow-logo {
+  height: 24px;
+  width: 24px;
+}
